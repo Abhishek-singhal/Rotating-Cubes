@@ -2,5 +2,5 @@
 A python based graphical Application
 
 Library used:
-PyGame
+PyGame,
 PyOpenGL
